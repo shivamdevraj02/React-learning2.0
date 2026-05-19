@@ -1,0 +1,16 @@
+.items-style{
+    font-weight: bolder;
+    color: rgb(54, 33, 49);
+      list-style: none;
+}
+
+.button-1{
+    background-color: rgb(8, 133, 37);
+    color: white; 
+    width: 70px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
