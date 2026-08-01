@@ -13,6 +13,7 @@ function App() {
     <h1>hello Context Api</h1>
     <h1>this is a sub heading</h1>
     <h2>this is second sub heading</h2>
+    <h3>this is home page </h3>
     
 
 
