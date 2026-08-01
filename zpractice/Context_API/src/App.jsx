@@ -11,7 +11,8 @@ function App() {
     <>
 
     <h1>hello Context Api</h1>
-    <h2>sub heading</h2>
+    
+
 
     
     </>
